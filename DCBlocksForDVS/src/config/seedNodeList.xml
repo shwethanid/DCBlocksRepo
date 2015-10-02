@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Node-Configuration>
+   <group id="1">
+        <seedHostname>node12.dvs.gridstat.isi.deterlab.net</seedHostname>
+        <seedHostname>node13.dvs.gridstat.isi.deterlab.net</seedHostname>
+        <Port>1551</Port>
+   </group>
+  <group id="2">
+        <seedHostname>node1.dvs.gridstat.isi.deterlab.net</seedHostname>
+        <seedHostname>node2.dvs.gridstat.isi.deterlab.net</seedHostname>
+        <Port>1551</Port>
+   </group>
+<group id="3">
+        <seedHostname>node6.dvs.gridstat.isi.deterlab.net</seedHostname>
+        <seedHostname>node7.dvs.gridstat.isi.deterlab.net</seedHostname>
+        <Port>1551</Port>
+</group>
+</Node-Configuration>

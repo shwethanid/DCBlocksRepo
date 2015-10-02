@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Node-Configuration>
+  <host id="1">
+        <Hostname>node1.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port>1551</Port>
+   </host>
+   <host id="2">
+        <Hostname>node2.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port>1551</Port>
+   </host>
+   <host id="3">
+        <Hostname>node3.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port>1551 </Port>
+   </host>
+      <host id="4">
+        <Hostname>node4.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port>1551 </Port>
+   </host>
+   <host id="5">
+        <Hostname>node5.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port>1551 </Port>
+   </host>
+   <host id="6">
+        <Hostname>node6.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port>1551</Port>
+    </host>
+  <host id="7">
+        <Hostname>node7.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port> 1551 </Port>
+    </host>
+    <host id="8">
+        <Hostname>node8.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port> 1551 </Port>
+    </host>
+      <host id="9">
+        <Hostname>node9.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port> 1551 </Port>
+    </host>
+    <host id="10">
+        <Hostname>node10.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port> 1551 </Port>
+    </host>
+   <host id="11">
+        <Hostname>node11.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port> 1551 </Port>
+    </host>
+  <host id="12">
+        <Hostname>node12.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port> 1551 </Port>
+    </host>
+    <host id="13">
+        <Hostname>node13.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port> 1551 </Port>
+    </host>
+      <host id="14">
+        <Hostname>node14.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port> 1551 </Port>
+    </host>
+    <host id="15">
+        <Hostname>node15.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port> 1551 </Port>
+    </host>
+      <host id="16">
+        <Hostname>node16.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port>1551</Port>
+   </host>
+   <host id="17">
+        <Hostname>node17.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port>1551</Port>
+   </host>
+   <host id="18">
+        <Hostname>node18.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port>1551 </Port>
+   </host>
+      <host id="19">
+        <Hostname>node19.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port>1551 </Port>
+   </host>
+   <host id="20">
+        <Hostname>node20.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port>1551 </Port>
+   </host>
+   <host id="21">
+        <Hostname>node21.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port>1551</Port>
+    </host>
+  <host id="22">
+        <Hostname>node22.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port> 1551 </Port>
+    </host>
+    <host id="23">
+        <Hostname>node23.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port> 1551 </Port>
+    </host>
+      <host id="24">
+        <Hostname>node24.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port> 1551 </Port>
+    </host>
+    <host id="25">
+        <Hostname>node25.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port> 1551 </Port>
+    </host>
+   <host id="26">
+        <Hostname>node26.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port> 1551 </Port>
+    </host>
+  <host id="27">
+        <Hostname>node27.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port> 1551 </Port>
+    </host>
+    <host id="28">
+        <Hostname>node28.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port> 1551 </Port>
+    </host>
+      <host id="29">
+        <Hostname>node29.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port> 1551 </Port>
+    </host>
+    <host id="30">
+        <Hostname>node30.dvs.gridstat.isi.deterlab.net</Hostname>
+        <Port> 1551 </Port>
+    </host>
+</Node-Configuration>

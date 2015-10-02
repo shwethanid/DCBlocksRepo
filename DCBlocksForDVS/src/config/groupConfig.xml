@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Group-Configuration>
+  <group id="1">
+        <initialimit>11</initialimit>
+        <nodeid>10</nodeid>
+        <nodeid>12</nodeid>
+        <nodeid>13</nodeid>
+        <nodeid>14</nodeid>
+        <nodeid>15</nodeid>
+        <nodeid>16</nodeid>
+        <nodeid>17</nodeid>
+        <nodeid>18</nodeid>
+        <nodeid>19</nodeid>
+        <nodeid>20</nodeid>
+        <nodeid>21</nodeid>
+   </group>
+   <group id="2">
+        <initialimit>5</initialimit>
+        <nodeid>1</nodeid>
+        <nodeid>2</nodeid>
+        <nodeid>3</nodeid>
+        <nodeid>4</nodeid>
+        <nodeid>5</nodeid>
+   </group>
+   <group id="3">
+        <initialimit>14</initialimit>
+        <nodeid>6</nodeid>
+        <nodeid>7</nodeid>
+        <nodeid>8</nodeid>
+        <nodeid>9</nodeid>
+        <nodeid>11</nodeid>
+        <nodeid>22</nodeid>
+        <nodeid>23</nodeid>
+        <nodeid>24</nodeid>
+        <nodeid>25</nodeid>
+        <nodeid>26</nodeid>
+        <nodeid>27</nodeid>
+        <nodeid>28</nodeid>
+        <nodeid>29</nodeid>
+        <nodeid>30</nodeid>
+   </group>
+</Group-Configuration>
